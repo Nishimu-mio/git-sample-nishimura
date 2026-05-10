@@ -1,3 +1,2 @@
-# git-sample-nishimura
-
+１回目のcommit
 Bさんの編集内容
